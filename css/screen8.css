@@ -1,0 +1,121 @@
+.screen8 {
+	font-size: 13px;
+	font-weight: normal;
+	margin-left: 165px;
+	margin-top: 100px;
+	width: 350px;
+}
+
+.heading {
+	font-family: georgia;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+
+.screen6 form {
+	margin-left:150px; 
+
+}
+
+.get-instructions {
+	font-family: helvetica;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.field-title {
+	width: 100px;
+	float: left;
+	line-height: 25px;
+}
+
+.fields {
+	float: right;
+	width: 240px;
+}
+
+button {
+    font-family: Helvetica,FreeSans,"Liberation Sans",Helmet,Arial,sans-serif;
+}
+.join-button {
+    background: -moz-linear-gradient(center top , #AFD47B 0px, #AFD47B 1px, #8BC03F 1px, #69A219 100%) repeat scroll 0 0 transparent;
+    border-color: #669933;
+    color: #FFFFFF !important;
+    font-weight: bold;
+    white-space: nowrap;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 1.35;
+    margin: 20px 0 0 75px;
+    overflow: visible;
+    padding: 3px 10px 2px;
+}
+
+
+div.alert.error {
+    background: url("sprite_global_v8.png") no-repeat scroll 6px -639px #FFEEEE
+}
+div.alert {
+    background-color: #FFFFFF;
+    color: #333333;
+    margin: 0 0 15px;
+    min-height: 28px;
+    overflow: hidden;
+    padding: 0 7px 0 40px;
+    position: relative;
+}
+
+
+
+.request-password-reset .error {
+    display: block;
+    font-size: 12px;
+    margin: 0 0 2px;field-title
+}
+span.error {
+    color: #990000;
+    font-weight: bold;
+}
+
+#global-error {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+#Footerline {
+	position: fixed;
+	width: 76.3%;
+	margin-left: 11.3%;
+	margin-top: 24.2%;
+	height: 1px;
+	background-color: #ccc;
+}
+#footer_login ul {
+	position: fixed;
+	margin-left: -3.8%;
+	margin-top: 0.925%;/*21.3%;*/
+}
+#footer_login ul li {
+	float: left;
+	list-style-type: none;
+	padding-left: 5.7px;
+	padding-right: 5.7px;
+	text-align: -webkit-match-parent;
+}
+.footer_login_li {
+	background: url(footer_separator.png) no-repeat left;
+}
+#footer_login ul li a {
+	font-size: 12px;
+	text-decoration: none;
+	color: #069;
+	font-family: Arial, sans-serif;
+}
+#footer_login ul li a:hover {
+	text-decoration: underline
+}
+

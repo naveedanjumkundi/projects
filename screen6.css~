@@ -1,0 +1,11 @@
+div.screen6
+{
+width: 600px;
+}
+
+div.change-password
+{
+margin-top:50px; 
+margin-left:150px; 
+}
+

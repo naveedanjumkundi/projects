@@ -1,0 +1,81 @@
+.screen6 {
+	font-size: 15px;
+	font-weight: normal;
+	margin-top: 100px;
+	width: 600px;
+}
+
+.heading {
+	font-family: georgia;
+	font-size: 20px;
+	font-weight: normal;
+}
+
+.change-password {
+	margin-top:50px; 
+	margin-left:150px; 
+}
+
+
+.screen6 form {
+	margin-left:150px; 
+
+}
+
+.get-instructions {
+	font-family: helvetica;
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.submit-button {
+    background: -moz-linear-gradient(center top , #73AEC9 0px, #73AEC9 1px, #338AB0 1px, #0571A6 100%) repeat scroll 0 0 transparent;
+    border-color: #045A8B;
+    border-radius: 3px 3px 3px 3px;
+    border-style: solid;
+    border-width: 1px;
+    color: #FFFFFF !important;
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 1.35;
+    margin-top: 15px;
+    overflow: visible;
+    padding: 3px 10px 2px;
+    text-decoration: none !important;
+    vertical-align: top;
+    width: auto;
+}
+
+#Footerline {
+	position: fixed;
+	width: 76.3%;
+	margin-left: 11.3%;
+	margin-top: 24.2%;
+	height: 1px;
+	background-color: #ccc;
+}
+#footer_login ul {
+	position: fixed;
+	margin-left: -3.8%;
+	margin-top: 0.925%;/*21.3%;*/
+}
+#footer_login ul li {
+	float: left;
+	list-style-type: none;
+	padding-left: 5.7px;
+	padding-right: 5.7px;
+	text-align: -webkit-match-parent;
+}
+.footer_login_li {
+	background: url(footer_separator.png) no-repeat left;
+}
+#footer_login ul li a {
+	font-size: 12px;
+	text-decoration: none;
+	color: #069;
+	font-family: Arial, sans-serif;
+}
+#footer_login ul li a:hover {
+	text-decoration: underline
+}
+
